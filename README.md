@@ -21,21 +21,21 @@ The project involved installing a honeypot that simulates potential attack vecto
 
 ### Logs Collection
 - Description: The logs from the honeypot provide insights into attempted attacks, showcasing various methods used by attackers to compromise systems.
-- Screenshot: ![Elasticsearch Logs](your_imgur_link_here)
+- Screenshot: ![Elasticsearch Logs](https://imgur.com/a/1ijj7la)
 
 ## Setup Process
 
 1. **Installing the Honeypot:**
    - Description: 
-   - Screenshot: ![Honeypot Installation]((https://imgur.com/a/63MCXIh))
+   - Screenshot: ![Honeypot Installation](https://imgur.com/a/63MCXIh)
 
 2. **Configuring Elasticsearch:**
    - Description: 
-   - Screenshot: ![Elasticsearch Configuration](your_imgur_link_here)
+   - Screenshot: ![Elasticsearch Configuration](https://imgur.com/a/KWlq9gD)
 
 3. **Analyzing Logs:**
    - Description: 
-   - Screenshot: ![Log Analysis](your_imgur_link_here)
+   - Screenshot: ![Log Analysis](https://imgur.com/a/W9wJkEy)
 
 ## Challenges and Solutions
 - **Challenge:** Initial setup issues with the honeypot.
