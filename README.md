@@ -20,22 +20,21 @@ The objective of this project was to set up a honeypot, collect logs of attempte
 The project involved installing a honeypot that simulates potential attack vectors, allowing for the collection of logs related to malicious activities.
 
 ### Logs Collection
-- Description: The logs from the honeypot provide insights into attempted attacks, showcasing various methods used by attackers to compromise systems.
-- [Elasticsearch Logs] (https://imgur.com/a/1ijj7la)
+- Screenshot: <a href="https://imgur.com/a/1ijj7la">Elasticsearch Logs</a>
 
 ## Setup Process
 
 1. **Installing the Honeypot:**
-   - Description: 
-   - [Honeypot Installation] (https://imgur.com/a/63MCXIh)
+   - The installation process involved configuring the honeypot software to mimic common vulnerabilities and monitor for incoming attacks. 
+   - Screenshot: <a href="https://imgur.com/a/63MCXIh">Honeypot Installation</a>
 
 2. **Configuring Elasticsearch:**
-   - Description: 
-   - [Elasticsearch Configuration] (https://imgur.com/a/KWlq9gD)
+   - This step included setting up Elasticsearch to properly ingest and index logs from the honeypot, ensuring efficient search and analysis capabilities. 
+   - Screenshot: <a href="https://imgur.com/a/KWlq9gD">Elasticsearch Configuration</a>
 
 3. **Analyzing Logs:**
-   - Description: 
-   - [Log Analysis] (https://imgur.com/a/W9wJkEy)
+   -  Analyzed the collected logs to identify patterns of malicious activity and gain insights into potential threats against the system. 
+   - Screenshot: <a href="https://imgur.com/a/W9wJkEy">Log Analysis</a>
 
 ## Challenges and Solutions
 - **Challenge:** Initial setup issues with the honeypot.
